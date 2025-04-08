@@ -1,0 +1,16 @@
+1)
+a) Se usa double en un char (altura = 'a');
+se asigna un entero a un booleano
+no se declara peso
+se deja suelto un guion en la impresion y no se imprime nada.
+
+b) intenta cambiar un valor constante, no se declara numero2 pero se intenta sumar, se intenta imprimir los valores que no estan definidos
+
+c) Nunca se recibe el dato ingresado a una variable
+
+
+2)
+a) ii) esta al reves el calculo de *3, y el calculo de resto deberia ser 0.
+
+b) ii) deberia ser numero%2 != 0
+iii) deberia ser un OR en vez de AND, lo mismo numero%2 !=0

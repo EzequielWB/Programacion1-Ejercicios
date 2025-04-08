@@ -1,0 +1,7 @@
+a) faltan los break; el caso c esta mal estipulado ya que se repite el case en el lugar del case;
+b)mal armado el for
+c)Loop infinito
+
+2)  la deteccion de minsucula esta mal, deberia ser && y ademas el else solo se aplica a mayuscula
+
+b) el else if esta diciendo que si el numero es mayor a 10, en vez de mayor igual, && numero < 100 en vez de <=, ademas falta el else
